@@ -12,7 +12,7 @@
 <body>
     <!-- top area -->
     <section>
-      <div class="container-fluid indigo">
+      <div class="container-fluid green">
         <div class="row">
           <div class="col-md-3">
             <img src="img/imageIcon.png" alt="Smart Decisions logo">
