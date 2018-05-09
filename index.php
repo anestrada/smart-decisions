@@ -109,31 +109,24 @@
             <div class="row">
                 <div class="service col-md-3 col-sm-6">
                   <img src="img/imageIcon.png" alt="image icon" class="img-responsive">
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                     Voluptate dolore mollitia numquam sit commodi at architecto 
-                     quo iste iure sint! Culpa accusantium veritatis ad consequatur 
-                     officiis rerum vero, dicta tempora?</p>
+                  <h3>E-Book</h3>
+                  <p>Learn how to wield the financial tools Judith uses by reading her self-published book, 
+                    7 Principles: Turn Your Salary into Millions.</p>
                 </div>
                 <div class="service col-md-3 col-sm-6">
                   <img src="img/imageIcon.png" alt="image icon" class="img-responsive">
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-                     At assumenda, quia veritatis similique consectetur harum placeat 
-                     qui dicta, mollitia obcaecati ipsum aliquam soluta culpa saepe 
-                     est totam distinctio blanditiis adipisci!</p>
+                  <h3>Seminar</h3>
+                  <p>Take part in Judith's weekly seminars about the tools explained in her E-Book.</p>
                 </div>
                 <div class="service col-md-3 col-sm-6">
                   <img src="img/imageIcon.png" alt="image icon" class="img-responsive">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                     In quidem error, nesciunt sed temporibus, quae laborum aliquid 
-                     animi veritatis necessitatibus, harum consequatur! Aut optio 
-                     nobis laudantium ullam obcaecati, nam voluptatibus.</p>
+                  <h3>Personal Advising</h3>
+                  <p>Spend some one-on-one time with Judith to discuss the financial solutions available to you and learn how to make smart financial decisions.</p>
                 </div>
                 <div class="service col-md-3 col-sm-6">
                   <img src="img/imageIcon.png" alt="image icon" class="img-responsive">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                     Maiores odio similique consequatur praesentium impedit et 
-                     dolorum natus ad iste! A reiciendis nesciunt maxime repellendus 
-                     et omnis sed architecto quo qui.</p>
+                  <h3>Free Quote</h3>
+                  <p>Describe your financial advising request and provide some information to receive a free quote on Judith's services.</p>
                 </div>
             </div>
         </div>
@@ -146,8 +139,9 @@
           <div class="row">
             <div class="col-md-7 about">
               <h3>My Story</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, ut quibusdam assumenda, deleniti nostrum neque ipsa
-                quasi in deserunt sapiente quidem, incidunt dicta commodi ea inventore ducimus? Labore, neque ea.</p>
+              <p>Judith McCaskill is a financial advisor located in the central coast of California, but she serves those in need of financial assistance all over the country.
+                Smart Decisions Inc. first began in the state of Virginia and has since expanded coast to coast.</p>
+              <p>Judith is also active in the community through volunteer service. Her personal goal is to help educate others to make their own financial decisions.</p>
               <a href="#">
                 <button class="btn btn-default">More about me</button>
               </a>
